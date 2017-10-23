@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enumgenlist", "enumgenlist\enumgenlist.csproj", "{42F65689-BC0C-4EF4-ACBF-7D6156875225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface", "interface\interface.csproj", "{9272C05E-6976-4C95-971D-4245F7EEB538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test1\test.csproj", "{085552B5-4C36-48B7-9FDE-6C35E79F7CE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42F65689-BC0C-4EF4-ACBF-7D6156875225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F65689-BC0C-4EF4-ACBF-7D6156875225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F65689-BC0C-4EF4-ACBF-7D6156875225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F65689-BC0C-4EF4-ACBF-7D6156875225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9272C05E-6976-4C95-971D-4245F7EEB538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9272C05E-6976-4C95-971D-4245F7EEB538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9272C05E-6976-4C95-971D-4245F7EEB538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9272C05E-6976-4C95-971D-4245F7EEB538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085552B5-4C36-48B7-9FDE-6C35E79F7CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085552B5-4C36-48B7-9FDE-6C35E79F7CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085552B5-4C36-48B7-9FDE-6C35E79F7CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085552B5-4C36-48B7-9FDE-6C35E79F7CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3371BB0-1734-4810-9A96-92A73A14A517}
+	EndGlobalSection
+EndGlobal
